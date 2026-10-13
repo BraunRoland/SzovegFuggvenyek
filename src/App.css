@@ -1,0 +1,14 @@
+.felvetel {
+    background-color: rgb(231, 231, 231);
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.forditott {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+
+button {
+    margin-right: 5px;
+}

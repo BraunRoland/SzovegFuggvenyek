@@ -1,7 +1,11 @@
 export function Header() {
     return( 
         <>
-            <h1>Feladat Szövegfüggvényekkel</h1>
+            <div className="row">
+                <div className="col-sm-12">
+                    <h1>Feladat Szövegfüggvényekkel</h1>
+                </div>
+            </div>
         </>
     )
 }
